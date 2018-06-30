@@ -4,6 +4,12 @@ Consulting / Data insight
 ## Notes
 This code was developed using Anaconda 4.5.3 with Python 3.6.5
 
+## Team
+- kh
+- pr
+- cb
+- r
+
 ## Overview
 - EDA on dataset
 - Develop Python skills
